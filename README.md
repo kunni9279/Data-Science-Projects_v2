@@ -24,7 +24,7 @@ PROJECT 2-STATEWISE LOAN ANALYSIS
 ●	Transformed and aggregated data to visualize loan amounts by employment profile across states
 ●	Used different supervised and unsupervised machine learning techniques for loan data analysis
 
-PROJECT 1-Visualization
+**PROJECT 1-Visualization**
 ●	Web-scraped population data from Wikipedia using Python
 ●	Extracted and structured tabular data with BeautifulSoup, creating a clean pandas DataFrame
 ●	Visualized continent-wise and country-wise population trends using line and pie charts
