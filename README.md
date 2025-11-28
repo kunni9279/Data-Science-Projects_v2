@@ -4,12 +4,14 @@
 - Integrated multiple models to improve prediction accuracy and performance through ensemble learning strategies.
 - Designed the application interface to allow user-friendly input and clear visualization of prediction outputs.
 
-**PROJECT 5 - CREDIT RISK ANALYSIS**                                                                                          -	Utilized Python to analyze 1,000 credit applications and gain insights into whether the risk level associated with each applicant was acceptable or required further review
+**PROJECT 5 - CREDIT RISK ANALYSIS**
+-	Utilized Python to analyze 1,000 credit applications and gain insights into whether the risk level associated with each applicant was acceptable or required further review
 -	Thoroughly analyzed the dataset using visualizations such as scatter plots, violin plots, and box plots to identify trends and outliers
 -	Used CatBoostClassifier to predict the risk and compile a professional report
 -	Built an interactive Credit Risk Prediction app using Streamlit for real-time risk assessment
 
-**PROJECT 4 - APARTMENT PRICE ANALYSIS**                                                                                      -	Used machine learning methods in python to analyze apartment prices using data driven techniques to understand the factors that influence property values
+**PROJECT 4 - APARTMENT PRICE ANALYSIS** 
+-	Used machine learning methods in python to analyze apartment prices using data driven techniques to understand the factors that influence property values
 -	It can be observed that the majority of semi-furnished or fully furnished apartments are located near main roads which influence prices
 -	Only a small fractions of houses without basements are preferred
 -	Provided technical insights on how machine learning models can be optimized by feature selection and preprocessing techniques to better predict apartment prices
@@ -21,7 +23,8 @@
 -	Used NLTK to perform sentiment analysis and interpret the emotional tone of the extracted sentences
 -	Also performed sentiment analysis on Amazon reviews data and generated the classification report
 
-**PROJECT 2-STATEWISE LOAN ANALYSIS**                                                                                         -	Loaded and visualized loan data using Python to uncover key patterns in statewise loan distribution across India
+**PROJECT 2-STATEWISE LOAN ANALYSIS** 
+-	Loaded and visualized loan data using Python to uncover key patterns in statewise loan distribution across India
 -	Analyzed income distribution across different employment types and state profiles
 -	Transformed and aggregated data to visualize loan amounts by employment profile across states
 -	Used different supervised and unsupervised machine learning techniques for loan data analysis
