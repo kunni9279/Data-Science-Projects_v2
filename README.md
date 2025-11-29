@@ -1,7 +1,7 @@
 **PROJECT 6 - ENSEMBLE LEARNING**
 - Utilized ensemble machine learning techniques such as Bagging, XGBoost, Stacking, and Voting Classifiers to build predictive models.
-- Developed and deployed an interactive Streamlit application for real-time prediction of weather conditions and day of the week.
 - Integrated multiple models to improve prediction accuracy and performance through ensemble learning strategies.
+- Developed and deployed an interactive Streamlit application for real-time prediction of weather conditions and day of the week.
 - Designed the application interface to allow user-friendly input and clear visualization of prediction outputs.
 
 **PROJECT 5 - CREDIT RISK ANALYSIS**
