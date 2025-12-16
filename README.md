@@ -44,7 +44,7 @@ What it shows: Understanding of the ML pipeline from data preparation to model e
 
 3️⃣ Natural Language Processing (NLP)
 
-Description: Text preprocessing and basic NLP workflows for analyzing textual data that was webscraped from wikipedia
+Description: Text preprocessing and basic NLP workflows for analyzing textual data that was webscraped from wikipedia and Amazon
 
 Skills & Tools:
 
